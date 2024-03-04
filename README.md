@@ -18,4 +18,4 @@ I'm a 24-year-old Industrial Engineer based in Colombia. I'm passionate about te
 
 
 ## 📫 Contact
-Say 'hello' on [Linkedin](https://www.linkedin.com/in/jessucantillo)
+Say 'hello' on [LinkedIn](https://www.linkedin.com/in/jesuscantillo)
